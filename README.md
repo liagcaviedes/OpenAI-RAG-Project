@@ -5,6 +5,7 @@
 The OpenAI RAG Project is designed to create an intelligent document retrieval system using state-of-the-art language models and vector databases. It leverages OpenAI's GPT-3.5 to provide accurate and contextual answers to questions related to business documentation in Spain. This project utilizes LangChain and Gradio for document loading, processing, and user interaction.
 
 ### Table of Contents
+
 [Features](#Features)
 [Installation](#Installation)
 [Usage](#Usage)
