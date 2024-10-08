@@ -6,12 +6,12 @@ The OpenAI RAG Project is designed to create an intelligent document retrieval s
 
 ### Table of Contents
 
-[Features](#Features)
-[Installation](#Installation)
-[Usage](#Usage)
-[Technical Details](#Technical_Details)
-[Contributing](#Contributing)
-[License](#License)
+- [Features](#Features)
+- [Installation](#Installation)
+- [Usage](#Usage)
+- [Technical Details](#Technical_Details)
+- [Contributing](#Contributing)
+- [License](#License)
 
 ### Features
 
